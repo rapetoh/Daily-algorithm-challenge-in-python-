@@ -1,0 +1,1 @@
+decrypt_message: The provided code, demonstrates the decryption process. The code aims to provide a simple mechanism to decrypt messages following a specified pattern. Every letter is decrypted by adding the letter ascii code and the number that's following directly. The result is the ascii code of the decryptes letter and so on.
